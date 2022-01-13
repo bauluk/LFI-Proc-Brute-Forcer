@@ -1,5 +1,5 @@
 # LFI Proc Brute Forcer
-This script will automatically brute force proc IDs. It requires a URL vulnerable to local file inclusion (LFI). Users can specify the number of iterations, and also various categories to test against. Results will be printed in the terminal as they are brute forced.
+This script will automatically brute force proc file system IDs. It requires a URL vulnerable to local file inclusion (LFI). Users can specify the number of iterations, and also various categories to test against. Results will be printed in the terminal as they are brute forced.
 
 ## Usage
 ```
