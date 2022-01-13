@@ -1,4 +1,4 @@
-# LFI-Proc-Brute-Forcer
+# LFI Proc Brute Forcer
 This script will automatically brute force proc IDs. It requires a URL vulnerable to local file inclusion (LFI).
 
 ## Usage
